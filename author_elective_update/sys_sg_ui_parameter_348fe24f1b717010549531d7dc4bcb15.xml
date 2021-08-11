@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Create New">124d260f1b717010549531d7dc4bcbd9</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>u_what_needed</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>When needed</name>
+        <order>50</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 19:50:41</sys_created_on>
+        <sys_id>348fe24f1b717010549531d7dc4bcb15</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>When needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_348fe24f1b717010549531d7dc4bcb15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 20:51:20</sys_updated_on>
+        <table_name>x_58872_needit_needit</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=348fe24f1b717010549531d7dc4bcb15"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c053fe75dba7a410d5c911f84896190a</instance_id>
+        <instance_name>dev112057</instance_name>
+        <name>sys_sg_ui_parameter_348fe24f1b717010549531d7dc4bcb15</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Create New">124d260f1b717010549531d7dc4bcbd9</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>u_what_needed</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>true</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>When needed</name><order>50</order><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-10 19:50:41</sys_created_on><sys_id>348fe24f1b717010549531d7dc4bcb15</sys_id><sys_mod_count>6</sys_mod_count><sys_name>When needed</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_348fe24f1b717010549531d7dc4bcb15</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-10 20:51:20</sys_updated_on><table_name>x_58872_needit_needit</table_name><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=348fe24f1b717010549531d7dc4bcb15"/></record_update>]]></payload>
+        <payload_hash>-445245010</payload_hash>
+        <record_name>When needed</record_name>
+        <reverted_from/>
+        <source>412ef8fc1b15f010549531d7dc4bcb53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 20:51:20</sys_created_on>
+        <sys_id>e57d7ec71bb17010549531d7dc4bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b31d5803a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 20:51:20</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>217d7ec74eb17010dde8159bf6d489ba</update_guid>
+        <update_guid_history>217d7ec74eb17010dde8159bf6d489ba:-445245010,ad2d7ec761b1701025a55257dc5c1cb4:-1191877347,555bba879bb1701088ca0e3e310b4be9:-811794508,e48af68774b17010d47441f2602a8dee:960265820,1cb9fa4731b17010f769beabc14d482d:1462413109,7af2ba038db17010a20164dcb487afd7:1483986323,419f628f3b71701097089917f31732e0:-1900406956</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 20:52:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>50f48beea65343a2ab2d453734087704</sys_id>
+        <sys_metadata>348fe24f1b717010549531d7dc4bcb15</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_348fe24f1b717010549531d7dc4bcb15</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_348fe24f1b717010549531d7dc4bcb15">e57d7ec71bb17010549531d7dc4bcbba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 20:52:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
